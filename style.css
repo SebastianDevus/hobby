@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(31, 30, 30);
+    color: wheat;
+}
+
+a {
+    color: yellow;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3em;
+}
