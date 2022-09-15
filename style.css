@@ -1,13 +1,26 @@
 body {
     background-color: rgb(31, 30, 30);
     color: wheat;
+    font-size: 2em;
+}
+
+strong.importante {
+    background-color: red;
+    color: white;
+    border: white solid 2px;
+}
+
+p.descricaoDeMods {
+    border: gray solid 3px;
 }
 
 a {
     color: yellow;
+    font-size: 0.75emem;
 }
 
 h1 {
+    color: white;
     text-align: center;
-    font-size: 3em;
+    font-size: 2em;
 }
