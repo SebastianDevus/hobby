@@ -1,22 +1,52 @@
 body {
-    background-color: rgb(31, 30, 30);
+    background-color: #1f1e1e;
     color: wheat;
-    font-size: 2em;
+    font-size: 2.5vw;
 }
 
-strong.importante {
-    background-color: red;
-    color: white;
-    border: white solid 2px;
+#descricaoDeMods {
+    margin-right: 5%;
+    margin-left: 5%;
 }
 
-p.descricaoDeMods {
-    border: gray solid 3px;
+.bottomLeft {
+    bottom: 0%;
+    left: 0%;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    color: gold;
+}
+
+.bottomRight {
+    bottom: 0%;
+    right: 0%;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    color: gold;
+}
+
+.creditos {
+    bottom: 0%;
+    left: 50%;
+    margin-bottom: 10px;
+    margin-left: -200px;
+    width: 400px;
+    color: coral;
+}
+
+.rodape {
+    position: fixed;
+    display: block;
+    font-size: 0.75em;
+    text-align: center;
 }
 
 a {
-    color: yellow;
-    font-size: 0.75emem;
+    color: darkorange;
+}
+
+strong {
+    color: sienna;
 }
 
 h1 {
