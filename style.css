@@ -55,18 +55,3 @@ h1 {
     text-align: center;
     font-size: 2em;
 }
-
-
-.galeriaCaixa {
-	display: inline-block;
-    width: 700px; 
-    border: 5px solid gray;
-    margin: 1%;
-}
-
-.imagemGaleria {
-    display: inline-block;
-    border-bottom: 5px solid gray;
-    width: 100%;
-    height: auto;
-}
