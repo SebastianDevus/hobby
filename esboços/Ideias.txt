@@ -1,7 +1,0 @@
-- tema: mods de videogames
-
-paginas:
-introdução
-galeria
-tipos
-história
