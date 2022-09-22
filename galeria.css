@@ -1,6 +1,7 @@
 .galeriaCaixa {
 	display: inline-block;
-    width: 700px; 
+    min-width: 400px;
+    width: 45%; 
     border: 5px solid gray;
     margin: 1%;
 }
